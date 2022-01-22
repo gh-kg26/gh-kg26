@@ -12,7 +12,7 @@
 <a href="https://twitter.com/gupta_kush26"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20gupta_kush26"></a>
 </p>
 
-<p align="center" style="font-size:25px">I am a Data Science and Machine Learning fanatic 💻 and Statistical Data Analysis Enthusiast 📚.<br/>I also love publishing my work on <a href="https://www.kaggle.com/guptakushagra/">Kaggle!</a><br/>Every so often, I write articles about Computer Science, Artificial Intelligence, Machine Learning, Data Science along with other random topics on <a href="https://guptakushagra202.wixsite.com/26102002/blog">my blog</a>.</p>
+<p align="center" style="font-size:25px">I am a Data Science and Machine Learning fanatic 💻 and Statistical Data Analysis Enthusiast 📚.<br/>I also love publishing my work on Kaggle!</a><br/>Every so often, I write articles about Computer Science, Artificial Intelligence, Machine Learning, Data Science along with other random topics on <a href="https://guptakushagra202.wixsite.com/26102002/blog">my blog</a>.</p>
 <!-- <hr> -->
 
 <h2 align="center"><img src="bolt.gif" width="30px">Technical Skillset</h2>
