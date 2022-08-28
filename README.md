@@ -1,6 +1,9 @@
-<h2 align="left">Hey! I'm Kushagra Gupta<img src="wave.gif" width="30px"></h2>
+<p align="center"><img align ="center" src = "https://user-images.githubusercontent.com/70581978/187083164-3303624e-2ab4-4bff-aa86-c3f7d6ca537c.jpg" width = "870px" height = "350px"></p>
 
-<h3 align="left">Computer Science Undergraduate</h3>
+<p align="center"><samp><b><strong> Hey there!</strong> <img src="wav.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I'm Kushagra Gupta</samp></h1></p>
+
+<h3 font="tech" align="center"> Machine Learning | DevOps | DevRel | Open Source | Computer Science</h3>
 
 <p align="left">
     
