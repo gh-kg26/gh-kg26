@@ -64,5 +64,5 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-kg26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kushagra's github stats" /></a> | <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-kg26&layout=compact&theme=buefy&hide_border=true" /></a> 
+| <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-kg26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kushagra's github stats" /></a> | <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-kg26&layout=compact&theme=buefy&hide_border=true" /></a> |
 
