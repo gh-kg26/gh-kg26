@@ -116,11 +116,11 @@
 
 
 
-<div align="center">
+
 <h2>📊 GitHub Stats:</h2>
 
 ![Kushagra's github trophy](https://github-profile-trophy.vercel.app/?username=gh-kg26&row=1)
-</div>
+
 
 <div align="center">
   <div align="center">
@@ -152,7 +152,7 @@
   </div>
   <br />
 
-<h3>Connect With Me:</h3>
+<h3>Lets's Connect:</h3>
 
 <p align = "center">
 
