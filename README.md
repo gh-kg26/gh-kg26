@@ -16,9 +16,9 @@
 
 <samp>🛰️ Technology engages the major motivating outcomes in my life, focused on personal growth, and positive impact. I am most happy when I am improving myself!</samp>
 
-🎯 I aim to have a positive impact on the world by building technology tools. Technology is of central importance in our society. I aim to deliver improved technology tools that will allow science to become more efficient, reproducible, and sustainable.
+<samp>🎯 I aim to have a positive impact on the world by building technology tools. Technology is of central importance in our society. I aim to deliver improved technology tools that will allow science to become more efficient, reproducible, and sustainable.</samp>
 
-☺️ Feel free to reach out to me! Cheerios :)
+<samp>☺️ Feel free to reach out to me! Cheerios</samp>
 
 </p>
 
