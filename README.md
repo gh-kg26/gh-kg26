@@ -5,17 +5,12 @@
 
 <h3  align="center"> <samp> Machine Learning | DevOps | DevRel | Open Source | Computer Science </samp></h3>
 
-<p align="left">
+<p align="center">
     
-<img src="https://komarev.com/ghpvc/?username=Guptakg2620" alt="Guptakg2620" />
-
-<br/>
-<a href="https://www.linkedin.com/in/gupta-kushagra2620/"><img src="https://img.shields.io/badge/-Kushgara Gupta-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
-<a href="mailto:guptakushagra202@gmail.com"><img src="https://img.shields.io/badge/-guptakushagra202@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:guptakushagra202@gmail.com"></a>
-<a href="https://twitter.com/gupta_kush26"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20gupta_kush26"></a>
+<img src="https://komarev.com/ghpvc/?username=gh-kg26&color=grey&style=for-the-badge&label=Kushagra's Profile Views" alt="gh-kg26" />
+<a href="mailto:kg26.pvt@gmail.com"><img src="https://img.shields.io/badge/-kg26.pvt@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kg26.pvt@gmail.com"></a>
 </p>
 
-<p align="center" style="font-size:25px">I am a Data Science and Machine Learning fanatic 💻 and Statistical Data Analysis Enthusiast 📚.<br/>I also love publishing my work on Kaggle!</a><br/>Every so often, I write articles about Computer Science, Artificial Intelligence, Machine Learning, Data Science along with other random topics on <a href="https://guptakushagra202.wixsite.com/26102002/blog">my blog</a>.</p>
 
 ## Skills:
 
@@ -69,29 +64,5 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/Guptakg2620/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Guptakg2620&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kushagra's github stats" /></a> | <a href="https://github.com/Guptakg2620/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guptakg2620&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-kg26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kushagra's github stats" /></a> | <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-kg26&layout=compact&theme=buefy&hide_border=true" /></a> 
 
