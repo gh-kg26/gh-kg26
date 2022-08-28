@@ -7,10 +7,20 @@
 
 <p align="center">
     
-<img src="https://komarev.com/ghpvc/?username=gh-kg26&color=grey&style=for-the-badge&label=Kushagra's Profile Views" alt="gh-kg26" />
+<img src="https://komarev.com/ghpvc/?username=gh-kg26&color=grey&style=for-the-badge&label=You are Visitor No." alt="gh-kg26" />
 <a href="mailto:kg26.pvt@gmail.com"><img src="https://img.shields.io/badge/-kg26.pvt@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kg26.pvt@gmail.com"></a>
 </p>
+<p>
+<samp>
+🙌 Hi, I am Kushagra, the insight into software development has always been my passion.</samp>
 
+<samp>🛰️ Technology engages the major motivating outcomes in my life, focused on personal growth, and positive impact. I am most happy when I am improving myself!</samp>
+
+🎯 I aim to have a positive impact on the world by building technology tools. Technology is of central importance in our society. I aim to deliver improved technology tools that will allow science to become more efficient, reproducible, and sustainable.
+
+☺️ Feel free to reach out to me! Cheerios :)
+
+</p>
 
 ## Skills:
 
@@ -64,5 +74,34 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-kg26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kushagra's github stats" /></a> | <a href="https://github.com/gh-kg26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-kg26&layout=compact&theme=buefy&hide_border=true" /></a> |
+<div align="center">
+  <div align="center">
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img
+        align="left"
+        width="396"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=gh-kg26&theme=react&border=61dafb&hide_border=true"
+        alt="Some Records"
+      />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img
+        align="right"
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=gh-kg26&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+      />
+    </a>
+  </div>
+  <br /><br /><br /><br /><br /><br /><br /><br />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        width="335"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-kg26&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=CSS,Makefile,Dockerfile,HTML&exclude_repo=space_game_msLearn"
+      />
+    </a>
+  </div>
+  <br />
+
 
