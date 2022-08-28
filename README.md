@@ -27,12 +27,11 @@
 ## Skills:
 
 #### Languages:
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width = "50px" height ="50px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width = "50px" height ="50px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width = "50px" height ="50px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width = "50px" height ="50px">
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width = "50px" height ="50px">
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width = "50px" height ="50px">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 #### ML/DL
 
@@ -45,8 +44,11 @@
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg" width = "60px" height ="60px">
+
+#### Cloud
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gcloud.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/azure.svg" width = "60px" height ="60px"><img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width = "60px" height ="60px">
+<img src = "https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" width = "60px" height ="60px">
 
 #### Tools and Technologies
 
@@ -64,17 +66,11 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 
-## Connect with me:
+<div align="center">
+<h2>📊 GitHub Stats:</h2>
 
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
-</p>
+![Kushagra's github trophy](https://github-profile-trophy.vercel.app/?username=gh-kg26&row=1)
+</div>
 
 <div align="center">
   <div align="center">
@@ -105,5 +101,17 @@
     </a>
   </div>
   <br />
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+</p>
 
 
