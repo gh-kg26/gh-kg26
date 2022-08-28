@@ -116,12 +116,12 @@
 
 
 
-
+<div align = "center">
 <h2>📊 GitHub Stats:</h2>
 
 ![Kushagra's github trophy](https://github-profile-trophy.vercel.app/?username=gh-kg26&row=1)
 
-
+</div>
 <div align="center">
   <div align="center">
     <a href="https://git.io/streak-stats" title="Go to Source">
