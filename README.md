@@ -1,4 +1,4 @@
-<p align="center"><img align ="center" src = "https://user-images.githubusercontent.com/70581978/187083164-3303624e-2ab4-4bff-aa86-c3f7d6ca537c.jpg" width = "870px" height = "350px"></p>
+<p align="center"><img align ="center" src = "https://user-images.githubusercontent.com/70581978/187087263-ff07b656-f21c-43a9-b3c4-d6abd945bd3e.jpg" width = "970px" height = "300px"></p>
 
 <p align="center"><samp><b><strong> Hey there!</strong> <img src="wave.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I'm Kushagra Gupta</samp></h1></p>
@@ -21,6 +21,8 @@
 <samp>☺️ Feel free to reach out to me! Cheerios</samp>
 
 </p>
+
+<p align="center"><img align ="center" src = "https://user-images.githubusercontent.com/70581978/187087367-0eb50a37-0c1b-4278-9dd7-d4105dd42fc0.jpg" width = "970px" height = "300px"></p>
 
 ## Skills:
 
