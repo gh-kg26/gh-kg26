@@ -21,7 +21,6 @@
 
 </p>
 
-<p align="center"><img align ="center" src = "https://user-images.githubusercontent.com/70581978/187087367-0eb50a37-0c1b-4278-9dd7-d4105dd42fc0.jpg" width = "970px" height = "300px"></p>
 
 ## Skills:
 
