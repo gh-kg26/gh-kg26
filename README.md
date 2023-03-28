@@ -3,7 +3,7 @@
 <p align="center"><samp><b><strong> Hey there!</strong> <img src="wave.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I'm Kushagra Gupta</samp></h1></p>
 
-<h3  align="center"> <samp> Machine Learning | DevOps | DevRel | Open Source | Computer Science </samp></h3>
+<h3  align="center"> <samp> Open Source | Software Development </samp></h3>
 
 <p align="center">
     
@@ -81,7 +81,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 
 
 #### Cloud:
